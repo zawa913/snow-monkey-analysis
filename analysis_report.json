@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "sentiment_counts": {
+      "Positive": 46,
+      "Neutral": 24,
+      "Negative": 9
+    },
+    "top_elements": {
+      "monkeys": 5,
+      "onsen": 2,
+      "monkey": 2,
+      "Monkeys, Ubud, Japan": 1,
+      "snow monkeys, snow": 1,
+      "fun, day": 1,
+      "Nagano, Nagoya": 1,
+      "Snow, Monkey, Park": 1,
+      "Tokyo, snow monkeys, cherry blossom": 1,
+      "Christmas, destination, visit": 1
+    },
+    "intent_counts": {
+      "Visit": 16,
+      "Plan": 12,
+      "Desire": 9
+    },
+    "lang_counts": {
+      "en": 54,
+      "ja": 23,
+      "et": 1,
+      "fi": 1
+    },
+    "avg_engagement_rate": 0.01704263262295167
+  },
+  "overall_insight": "示唆1：キラーコンテンツ「スノーモンキー＆温泉」の多言語発信強化\nデータは「monkeys」「snow monkeys」「onsen」が圧倒的な関心の中心であり、英語圏からのアクセスが最多であることを示す。\n具体的な施策：長野のスノーモンキーと温泉体験に特化した高品質な動画コンテンツ（例：猿が温泉に入る瞬間、周辺の温泉街の魅力）を制作し、公式サイト、YouTube、SNSで英語を主とした多言語で発信する。特に、外国人観光客向けの「スノーモンキー＆温泉満喫」モデルコースを明確に提示し、視覚的に魅力を訴求する。\n\n示唆2：訪問意欲を具体的な行動へ導く予約・計画支援の拡充\n「Visit」「Plan」「Desire」といった高い訪問意欲が見られる一方で、エンゲージメント率には改善の余地がある。\n具体的な施策：スノーモンキーパークの公式サイトを多言語対応させ、東京や主要都市からの具体的なアクセス方法（電車、バス、送迎サービスなど）と所要時間を詳細に案内する。周辺の提携温泉旅館との予約連携システムを構築し、パーク入場券と宿泊がセットになった外国人向けパッケージプランをオンラインで提供。これにより、計画から予約までの障壁を下げ、訪問率を向上させる。\n\n示唆3：SNSを通じた参加型コンテンツでエンゲージメントを向上\nポジティブな感情が多い一方で、エンゲージメント率は1.7%と中程度。ユーザーの参加を促すことで、口コミ効果を高められる。\n具体的な施策：訪問客がスノーモンキーと温泉をテーマに撮影した写真や動画を、指定のハッシュタグ（例：#SnowMonkeyOnsenJapan）をつけてSNSに投稿してもらうキャンペーンを定期的に実施する。優秀作品にはパークオリジナルグッズや提携温泉宿の割引券を進呈し、UGC（User Generated Content）を促進。これにより、既存のフォロワーだけでなく、その友人・知人層へのリーチも拡大し、エンゲージメントと認知度を高める。",
+  "segment_insight": {
+    "en": {
+      "summary": {
+        "sentiment": {
+          "Positive": 27,
+          "Neutral": 21,
+          "Negative": 6
+        },
+        "elements": {
+          "monkeys": 3,
+          "Monkeys, Ubud, Japan": 1,
+          "Tokyo, snow monkeys, cherry blossom": 1,
+          "luggage locker": 1,
+          "winter, Central Japan, itinerary": 1
+        },
+        "intent": {
+          "Visit": 13,
+          "Plan": 12,
+          "Desire": 5
+        }
+      },
+      "insight": "日本のスノーモンキーを主要コンテンツとして、冬季の中部地方周遊旅行を強力にプロモーションする。"
+    },
+    "ja": {
+      "summary": {
+        "sentiment": {
+          "Positive": 17,
+          "Negative": 3,
+          "Neutral": 3
+        },
+        "elements": {
+          "onsen, spa, pool": 1,
+          "Monkey, Snow": 1,
+          "monkey": 1,
+          "このコメントには具体的な観光的要素が含まれていません。": 1,
+          "Monkey, Deer, Nara": 1
+        },
+        "intent": {
+          "Desire": 4,
+          "Visit": 3
+        }
+      },
+      "insight": "雪景色の中で温泉に入るニホンザルを間近で観察し、その後、自身も日本の伝統的な温泉文化を満喫できるツアーを提案します。"
+    }
+  }
+}
